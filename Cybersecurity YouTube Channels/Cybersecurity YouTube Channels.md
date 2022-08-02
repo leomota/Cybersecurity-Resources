@@ -84,3 +84,4 @@ A collection of list of Best Cybersecurity Youtube Channels I have came across a
 82. [Troy Hunt](https://www.youtube.com/c/troyhuntdotcom)
 83. [Tech69](https://www.youtube.com/c/Tech69YT)
 84. [Cloud Security Podcast](https://www.youtube.com/c/CloudSecurityPodcast)
+85. [Acaditi](https://www.youtube.com/c/ACADITI)
